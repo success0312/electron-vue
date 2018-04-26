@@ -1,1 +1,15 @@
-# electron-vue
+## How to install
+This app is desktop app to analyze music meta data
+```
+npm install -g vue-cli
+npm install 
+npm run postinstall:deps
+```
+## How to run
+
+npm run dev
+
+## Reference
+https://github.com/SimulatedGREG/electron-vue
+
+![alt text](https://github.com/success0312/electron-vue/master/src/renderer/assets/main.png)
