@@ -12,4 +12,4 @@ npm run dev
 ## Reference
 https://github.com/SimulatedGREG/electron-vue
 
-![alt text](https://github.com/success0312/electron-vue/master/src/renderer/assets/main.png)
+![alt text](https://github.com/success0312/electron-vue/blob/master/src/renderer/assets/img/main.png)
